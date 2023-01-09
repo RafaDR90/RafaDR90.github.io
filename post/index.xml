@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog de Rafa con HUGO</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Blog de Rafa con HUGO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Jan 2023 22:22:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initial post</title>
+      <link>http://localhost:1313/post/initial_post/</link>
+      <pubDate>Mon, 09 Jan 2023 22:22:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/initial_post/</guid>
+      <description>Post inicial de Blog de Rafa con HUGO
+Hola</description>
+    </item>
+    
+  </channel>
+</rss>
